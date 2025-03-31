@@ -71,7 +71,7 @@ UPDATE layoffs_staging_2
 SET industry = 'Crypto'
 WHERE industry LIKE 'Crypto%';
 
-
+-- removing null values
 
 
 
